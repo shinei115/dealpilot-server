@@ -1,5 +1,5 @@
 const express = require("express");
-const fs = require("fs"); // ⬅ 이미 선언됨
+const fs = require("fs");
 const path = require("path");
 const cors = require("cors");
 
